@@ -1,0 +1,11 @@
+1   Expresso		1.0$
+2	Americano		1.0$
+3	Machiato		1.5$
+4	FlatWhite		1.5$
+5	Caffelatte		1.5$
+6	IceGreenTea		1.0$
+7	IceCaffelatte	1.0$
+8	IceChocolate	1.0$
+9	IceLemonTea		1.0$
+10	IceMocha		1.0$
+
